@@ -1,0 +1,7 @@
+
+Programmation/.idea/workspace.xml
+Programmation/venv/*
+*.pyc
+*.xml
+Programmation/.idea/dictionaries/*.xml
+Programmation/.idea/Programmation.iml

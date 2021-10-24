@@ -1,0 +1,72 @@
+Id,Name,Rarity,Cost,Pattern,Attack,Health_or_Durability,Effects,Spell_target,Spell_actions,ImageLocation
+coin,La pièce,0,0,2,0,0,0,0,coin,Resources/Images/Cards/Coin.png
+1,Al'Akir The Windlord,3,8,0,4,7,11,,,Resources/Images/Cards/1.png
+2,Alexstrasza,3,9,0,10,10,4,,,Resources/Images/Cards/2.png
+3,Amani Berserker,0,3,0,3,3,0,,,Resources/Images/Cards/3.png
+4,Angry Chicken,1,1,0,1,2,0,,,Resources/Images/Cards/4.png
+5,Anubisath Warbringer,2,5,0,5,1,4,,,Resources/Images/Cards/5.png
+6,Arcane Golem,0,7,0,7,7,0,,,Resources/Images/Cards/6.png
+7,Arch-villain Rafaam,3,8,0,8,8,5,,,Resources/Images/Cards/7.png
+8,Azari The Devourer,3,10,0,10,10,5,,,Resources/Images/Cards/8.png
+9,Bloodmage Thalnos,3,2,0,2,3,20,,,Resources/Images/Cards/9.png
+10,Cabal Shadow Priest,2,6,0,4,5,6,,,Resources/Images/Cards/10.png
+11,Captain Greenskin,3,5,0,5,4,8,,,Resources/Images/Cards/11.png
+12,Clockwork Automaton,1,4,0,4,4,0,,,Resources/Images/Cards/12.png
+13,Colossus of the moon,3,10,0,10,10,2,,,Resources/Images/Cards/13.png
+14,Crazed alchemist,0,2,0,2,2,0,,,Resources/Images/Cards/14.png
+15,Deathwing,3,10,0,12,12,0,,,Resources/Images/Cards/15.png
+16,Defender of Argus,0,4,0,4,4,1,,,Resources/Images/Cards/16.png
+17,"Dr. Boom, Mad Genius",3,7,0,7,7,6,,,Resources/Images/Cards/17.png
+18,Dwarven Sharpshooter,0,1,0,1,3,0,,,Resources/Images/Cards/18.png
+19,Ethereal Arcanist,1,2,0,2,3,0,,,Resources/Images/Cards/19.png
+20,Faceless Manipulator,2,5,0,1,3,20,,,Resources/Images/Cards/20.png
+21,Faceless Rager,0,3,0,3,2,4,,,Resources/Images/Cards/21.png
+22,Faerie Dragon,0,2,0,3,2,0,,,Resources/Images/Cards/22.png
+23,Fal'dorei Strider,2,4,0,4,5,0,,,Resources/Images/Cards/23.png
+24,Felguard,0,3,0,3,4,0,,,Resources/Images/Cards/24.png
+25,Felsoul Inquisitor,0,4,0,2,7,0,,,Resources/Images/Cards/25.png
+26,Flame Imp,0,1,0,2,1,0,,,Resources/Images/Cards/26.png
+27,Fungalmancer,1,6,0,6,6,0,,,Resources/Images/Cards/27.png
+28,Glowstone Technician,2,6,0,3,5,6,,,Resources/Images/Cards/28.png
+29,Harrison Jones,3,5,0,5,4,8,,,Resources/Images/Cards/29.png
+30,Harvest Golem,0,2,0,2,3,0,,,Resources/Images/Cards/30.png
+31,Hecklebot,1,4,0,3,6,1,,,Resources/Images/Cards/31.png
+32,Hench Clan Hogsteed,0,1,0,1,1,4,,,Resources/Images/Cards/32.png
+33,High Inquisitor Whitemane,3,7,0,8,8,1,,,Resources/Images/Cards/33.png
+34,Holomancer,1,4,0,2,3,24,,,Resources/Images/Cards/34.png
+35,Hunting Mastiff,0,2,0,2,1,4,,,Resources/Images/Cards/35.png
+36,King Krush,3,9,0,8,8,8,,,Resources/Images/Cards/36.png
+37,Kobold Sandtrooper,1,5,0,5,5,1,,,Resources/Images/Cards/37.png
+38,Leeroy Jenkins,3,5,0,6,2,8,,,Resources/Images/Cards/38.png
+39,Mana Cyclone,2,2,0,2,2,3,,,Resources/Images/Cards/39.png
+40,Master Swordsmith,1,5,0,5,5,1,,,Resources/Images/Cards/40.png
+41,Mind Control Tech,0,3,0,3,3,0,,,Resources/Images/Cards/41.png
+42,Militia Commander,1,4,0,3,5,4,,,Resources/Images/Cards/42.png
+43,Mistwraith,2,8,0,8,8,1,,,Resources/Images/Cards/43.png
+44,Moutain Giant,2,8,0,7,10,0,,,Resources/Images/Cards/44.png
+45,Omega Agent,2,4,0,6,3,0,,,Resources/Images/Cards/45.png
+46,Patient Assassin,2,2,0,2,2,16,,,Resources/Images/Cards/46.png
+47,Pit Crocolisk,0,3,0,2,4,18,,,Resources/Images/Cards/47.png
+48,Questing Adventurer,1,3,0,4,3,0,,,Resources/Images/Cards/48.png
+49,Raging Worgen,0,2,0,4,1,0,,,Resources/Images/Cards/49.png
+50,Ratcatcher,0,6,0,8,4,0,,,Resources/Images/Cards/50.png
+51,Savannah Highmane,1,6,0,6,5,4,,,Resources/Images/Cards/51.png
+52,Seaforium Bomber,2,5,0,5,5,1,,,Resources/Images/Cards/52.png
+53,Shimmering Courser,0,1,0,2,2,0,,,Resources/Images/Cards/53.png
+54,SI:7 Agent,1,3,0,2,5,1,,,Resources/Images/Cards/54.png
+55,Spell Breaker,0,4,0,2,3,2,,,Resources/Images/Cards/55.png
+56,Spring Rocket,0,3,0,2,1,16,,,Resources/Images/Cards/56.png
+57,Stoneskin Basilik,0,3,0,1,1,18,,,Resources/Images/Cards/57.png
+58,Stranglethorn Tigger,0,7,0,6,8,0,,,Resources/Images/Cards/58.png
+59,The Black Knight,3,6,0,6,7,5,,,Resources/Images/Cards/59.png
+60,The Darkness,3,7,0,3,11,16,,,Resources/Images/Cards/60.png
+61,Transmogrifier,2,2,0,2,3,1,,,Resources/Images/Cards/61.png
+62,Tunnel Blaster,0,7,0,3,7,7,,,Resources/Images/Cards/62.png
+63,Twilight Drake,1,4,0,4,6,0,,,Resources/Images/Cards/63.png
+64,Void Terror,1,3,0,3,4,0,,,Resources/Images/Cards/64.png
+65,Voidlord,2,9,0,4,9,3,,,Resources/Images/Cards/65.png
+66,Wargear,0,5,0,5,5,0,,,Resources/Images/Cards/66.png
+67,Weaponized Wasp,0,1,0,1,3,0,,,Resources/Images/Cards/67.png
+68,Witchwood Piper,1,4,0,3,3,5,,,Resources/Images/Cards/68.png
+69,Young Priest,1,1,0,1,1,3,,,Resources/Images/Cards/69.png
+70,Ysera,3,9,0,5,13,2,,,Resources/Images/Cards/70.png
